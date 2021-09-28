@@ -1,4 +1,6 @@
-### Hi there 👋🏾, I'm Antonette
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋🏾+I'm+Antonette)](https://git.io/typing-svg)
+
+
 
 ![Antonette's Github stats](https://github-readme-stats.vercel.app/api?username=antonetteortiz&theme=highcontrast&show_icons=true&count_private=true)
 
