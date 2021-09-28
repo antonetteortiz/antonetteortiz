@@ -1,6 +1,6 @@
 <h3 align='center'>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Antonette)](https://git.io/typing-svg)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h3>
 
 <!-- Social icons section -->
