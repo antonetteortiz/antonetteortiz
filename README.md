@@ -1,6 +1,6 @@
 <h3 align='center'>
 Welcome to Antonette Ortiz's profile!
-<img src="src="https://giphy.com/embed/RviJwWq6v5abmTlYhL" width="480" height="480" frameBorder="0"/>
+<img src="https://giphy.com/embed/RviJwWq6v5abmTlYhL" width="30" height="30"/>
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Antonette)](https://git.io/typing-svg)
