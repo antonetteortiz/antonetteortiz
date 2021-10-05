@@ -3,7 +3,23 @@ I am Software Engineer. I love experimenting with new technologies and building 
 
 - 💻 Working as a **Software Engineer** at [Airista](https://www.airista.com/).
 - ☀️ Learning and Developing backend web development.
-- ✍️ Writing about my transition into tech from fashion
+- ✍️ Writing about my transition into tech from fashion.
+
+<details>
+  <summary>Some interesting facts about me!</summary>
+  <br>
+
+  - I'm a first generation Garifuna and I love learning more about my culture. You'll find that many of my small projects are centered around culture preservation.💛🤍🖤  
+
+  - Trained in Jiu Jitsu and Judo 🥋.
+
+  - Dog mom to the best dog ever (and I'm not just saying that cause he's mine).🐾
+
+  - Pantomath to my core.
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
+
+</details>
 
 ![Antonette's Github stats](https://github-readme-stats.vercel.app/api?username=antonetteortiz&theme=highcontrast&show_icons=true&count_private=true)
 
