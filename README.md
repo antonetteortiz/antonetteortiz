@@ -1,3 +1,10 @@
+### Hey, It's Antonette Ortiz here
+I am Software Engineer. I love experimenting with new technologies and building small projects.
+
+- 💻 Working as a **Software Engineer** at [Airista](https://www.airista.com/).
+- ☀️ Learning and Developing backend web development.
+- ✍️ Writing about my transition into tech from fashion
+
 ![Antonette's Github stats](https://github-readme-stats.vercel.app/api?username=antonetteortiz&theme=highcontrast&show_icons=true&count_private=true)
 
 
