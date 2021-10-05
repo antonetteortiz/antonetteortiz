@@ -6,10 +6,8 @@ I am Software Engineer. I love experimenting with new technologies and building 
 - ✍️ Writing about my transition into tech from fashion.
 
 
-<details>
-  <summary>Some interesting facts about me!</summary>
+Some interesting facts about me!
   <br>
-
   - I'm a first generation Garifuna and I love learning more about my culture. You'll find that many of my small projects are centered around culture preservation.💛🤍🖤  
 
   - Trained in Jiu Jitsu and Judo 🥋.
@@ -17,7 +15,7 @@ I am Software Engineer. I love experimenting with new technologies and building 
   - Dog mom to the best dog ever (and I'm not just saying that cause he's mine).🐾
 
   - Pantomath to my core.
-</details>
+
 
 ![Antonette's Github stats](https://github-readme-stats.vercel.app/api?username=antonetteortiz&theme=highcontrast&show_icons=true&count_private=true)
 
