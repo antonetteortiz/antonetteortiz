@@ -5,7 +5,7 @@ I am Software Engineer. I love experimenting with new technologies and building 
 - ☀️ Learning and Developing backend web development.
 - ✍️ Writing about my transition into tech from fashion.
 
-<details>
+
   <summary>Some interesting facts about me!</summary>
   <br>
 
@@ -17,9 +17,6 @@ I am Software Engineer. I love experimenting with new technologies and building 
 
   - Pantomath to my core.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
-
-</details>
 
 ![Antonette's Github stats](https://github-readme-stats.vercel.app/api?username=antonetteortiz&theme=highcontrast&show_icons=true&count_private=true)
 
